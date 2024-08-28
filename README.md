@@ -1,7 +1,7 @@
 # 🔥 About Me:
 A little software engineer student, a little ios developer and a pinch of body builder
 * I am currently working on İOS mobile developmet with Swift - SwiftUI 🧑🏻‍💻
-* I am currently learning SwiftUI , machine learning 🚀
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mercakar/) 
