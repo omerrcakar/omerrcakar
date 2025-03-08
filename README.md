@@ -1,6 +1,7 @@
 # 🔥 About Me:
-A little software engineer student, a little ios developer and a pinch of body builder
+
 * I am currently working on İOS mobile developmet with Swift - SwiftUI 🧑🏻‍💻
+* Data Analyst
 
 
 ## 🌐 Socials:
