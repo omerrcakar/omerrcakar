@@ -1,7 +1,6 @@
 # 🔥 About Me:
 
 * Mobile Developer with Swift - SwiftUI - Flutter 🧑🏻‍💻
-* Data Analyst & Scientist - ML 📊
 
 
 ## 🌐 Socials:
