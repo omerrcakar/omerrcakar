@@ -1,6 +1,6 @@
 # 🔥 About Me:
 
-* Mobile Developer with Swift - SwiftUI - React - React Native 🧑🏻‍💻
+* Mobile Developer with Swift - SwiftUI - Python 🧑🏻‍💻
 
 
 ## 🌐 Socials:
